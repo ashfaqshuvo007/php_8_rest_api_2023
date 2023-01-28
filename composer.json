@@ -1,0 +1,14 @@
+{
+    "name": "ashfaqhu/php8_api",
+    "description": "Simple PHP 8 OOP and mysql rest api 2023",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "fakerphp/faker": "^1.21"
+    },
+    "authors": [
+        {
+            "name": "Ashfaq H Ahmed",
+            "email": "ashfaqhshuvo14@gmail.com"
+        }
+    ]
+}
